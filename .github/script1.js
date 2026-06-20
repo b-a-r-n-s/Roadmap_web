@@ -3,7 +3,7 @@
    Single source of truth (DATA) renders everything: phase list,
    module rows, peek previews, lesson pages, portfolio, badges.
    No frameworks. No external deps beyond the Google Fonts link
-   already in index.html.
+   already in index.html....
    ============================================================ */
 
 (function () {
